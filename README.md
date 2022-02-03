@@ -25,7 +25,7 @@
 ***
 
 <br/>
-Si tienes algún error, unete al servidor de soporte y muestra el **error y el código de error** en el canal de <kbd>#「💻」・djs-ayuda</kbd>
+Si tienes algún error, únete al servidor de soporte y muestra el <strong>error y el código de error</strong> en el canal de <kbd>#「💻」・djs-ayuda</kbd>
 <br/>
 
 <br/>
