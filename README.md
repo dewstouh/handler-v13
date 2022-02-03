@@ -11,7 +11,7 @@
 ## Guía de Instalación
 
 <br/>
-- Tener <span style="font-weight: bold;">node.js v16.6 o mayor</span>
+- Tener <strong style="font-weight: bold;">node.js v16.6 o mayor</strong>
 
 - en `./config/config.json` Se deberá de ajustar el TOKEN, PREFIJO y LINK DE MONGODB
 
@@ -25,7 +25,7 @@
 ***
 
 <br/>
-Si tienes algún error, únete al servidor de soporte y muestra el <span style="font-weight: bolder;">error y el código de error</span> en el canal de <kbd>#「💻」・djs-ayuda</kbd>
+Si tienes algún error, únete al servidor de soporte y muestra el <strong style="font-weight: bolder;">error y el código de error</strong> en el canal de <kbd>#「💻」・djs-ayuda</kbd>
 <br/>
 
 <br/>
