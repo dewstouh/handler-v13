@@ -25,7 +25,7 @@
 ***
 
 <br/>
-Si tienes algún error, únete al servidor de soporte y muestra el <span style="font-weight: bold;">error y el código de error</span> en el canal de <kbd>#「💻」・djs-ayuda</kbd>
+Si tienes algún error, únete al servidor de soporte y muestra el <span style="font-weight: bolder;">error y el código de error</span> en el canal de <kbd>#「💻」・djs-ayuda</kbd>
 <br/>
 
 <br/>
