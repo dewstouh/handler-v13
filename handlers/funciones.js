@@ -1,5 +1,6 @@
 const serverSchema = require(`${process.cwd()}/modelos/servidor.js`);
 const Discord = require('discord.js')
+const config = require(`${process.cwd()}/config/config.json`);
 
 module.exports = {
     asegurar_todo,
