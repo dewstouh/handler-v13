@@ -1,10 +1,11 @@
 const serverSchema = require(`${process.cwd()}/modelos/servidor.js`);
-const config = require(`${process.cwd()}/config/config.json`);
+const Discord = require('discord.js')
+
 module.exports = {
     asegurar_todo,
 }
 
-async function asegurar_todo(guildid, userid){
+async function asegurar_todo(guildid, userid) {
     if (guildid) {
         let serverdata = await serverSchema.findOne({ guildID: guildid })
         if (!serverdata) {
@@ -17,3 +18,10 @@ async function asegurar_todo(guildid, userid){
         }
     }
 }
+
+/*
+╔═════════════════════════════════════════════════════╗
+║    || - || Desarollado por dewstouh#1088 || - ||    ║
+║    ----------| discord.gg/MBPsvcphGf |----------    ║
+╚═════════════════════════════════════════════════════╝
+*/
